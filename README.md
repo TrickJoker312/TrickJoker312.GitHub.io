@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!-- Template by quackit.com -->
 <html>
-<head>
+<head> Hey! I'm TrickJoker312!
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>3 Column Layout</title>
 	<style type="text/css">
