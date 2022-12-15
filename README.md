@@ -1,4 +1,1 @@
-<!-- HTML Codes by Quackit.com -->
-<audio src="https://www.youtube.com/watch?v=0k-L968mKHg" autoplay="autoplay"  loop="loop" id="YouTube">
-<embed src="https://www.youtube.com/watch?v=0k-L968mKHg" autoplay="true" width="450" height="300" name="YouTube" id="YouTube">
-</audio>
+<iframe src="https://www.youtube-nocookie.com/embed/0k-L968mKHg?start=0&end=110&vq=hd1080&autoplay=1&loop=1&modestbranding=1&rel=0&cc_load_policy=1&iv_load_policy=3&fs=0&controls=0&disablekb=1&playlist=0k-L968mKHg" width="560" height="315" title=":baller:breakbeat" frameborder="0"></iframe>
