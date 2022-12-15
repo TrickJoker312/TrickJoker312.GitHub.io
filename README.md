@@ -1,1 +1,26 @@
-<iframe src="https://www.youtube-nocookie.com/embed/0k-L968mKHg?start=0&end=110&vq=hd1080&autoplay=1&loop=1&modestbranding=1&rel=0&cc_load_policy=1&iv_load_policy=3&fs=0&controls=0&disablekb=1&playlist=0k-L968mKHg" width="560" height="315" title=":baller:breakbeat" frameborder="0"></iframe>
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>TrickJoker312.Github.io</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="The main source for all things me!">
+		<meta name="keywords" content="html site">
+		<style>
+			h1 {
+				font-family: Arial, sans-serif;
+				color: #2f2d2d;
+				text-align: default;
+			}
+			p {
+				font-family: Arial, sans-serif;
+				font-size: 14px;
+				text-align: default;
+				color: #2f2d2d;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Sus</h1>
+		<p>Hey! I'm TrickJoker312. I create GitHub repositories for unblocked games sites! You can visit all the unblocked games sites i know here: https://github.com/TrickJoker312/Unblocked-Sites</p>
+	</body>
+</html>
