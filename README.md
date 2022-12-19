@@ -1,11 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Music Code Generator</title>
-</head>
-<body>
-	<audio autoplay loop id="musicPlayer">
-		<source src="https://voca.ro/1m2mzrS15p3f" autoplay="true" width="400" height="300" name="musicPlayer" id="musicPlayer">
-	</audio>
-</body>
-</html>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/igZrFRJE-YI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
