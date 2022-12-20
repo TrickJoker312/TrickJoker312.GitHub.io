@@ -1,3 +1,1 @@
-<audio src="https://www.youtube.com/watch?v=0k-L968mKHg" autoplay="autoplay"  loop="loop" id="BALLER">
-<embed src="https://www.youtube.com/watch?v=0k-L968mKHg" autoplay="true" width="0" height="0" name="BALLER" id="BALLER">
-</audio>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/igZrFRJE-YI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
