@@ -1,1 +1,8 @@
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/igZrFRJE-YI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<html>
+<head>
+<title>TRICKJOKER312</title>
+</head>
+<body>
+Hey! I'm TrickJoker312. You can contact me through my github account! https://github.com/TrickJoker312 I just make repositories about unblocked sites. I hope you enjoy!
+</body>
+</html>
