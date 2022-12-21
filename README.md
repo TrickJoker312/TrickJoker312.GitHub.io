@@ -1,11 +1,5 @@
-<html>
-<head>
-<title>Title of your page here</title>
-</head>
-<body>
-Hey! Welcome to my GitHub site! Here, i make repositories on unblocked games! Here's my GitHub account: https://github.com/TrickJoker312
-  Here's a video!
-</body>
-</html>
+<meta charset="utf-8">
+    <title>Subway Surfers Zurich UNBLOCKED</title>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/igZrFRJE-YI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="game_frame" frameborder="0" scrolling="no" allowfullscreen src="//files.ufreegame.net/1024/Subway-Surfers-Zurich/" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">
+    Your browser doesn't support iframes></iframe>
